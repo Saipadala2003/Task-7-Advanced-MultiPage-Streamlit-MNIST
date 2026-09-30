@@ -191,3 +191,27 @@ Class probabilities
 Predicted digit
         ↓
 Confidence / visualization
+Technologies Used
+Python
+
+Python is used as the primary programming language for application development, image processing, and model inference.
+
+Streamlit
+
+Streamlit is used to build the interactive multi-page web application.
+
+TensorFlow / Keras
+
+TensorFlow and Keras are used for the trained CNN model and prediction process.
+
+NumPy
+
+NumPy is used for numerical operations and image-array processing.
+
+Pillow
+
+Pillow is used for image loading, grayscale conversion, and resizing.
+
+MNIST
+
+MNIST provides the handwritten digit images used for classification.
